@@ -23,4 +23,4 @@ This simple and secure web application allows users to encrypt and decrypt textu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/text-encryption-decryption.git
+   git clone https://github.com/SleepingGambit/text-encryption-decryption.git
